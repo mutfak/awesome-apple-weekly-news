@@ -6,6 +6,7 @@ Please ensure your pull request stick to following guidelines:
 
 - Search previous news before requesting to add new one.
 - Make individual pull request for each news or blog post.
+- New categories, or improvements to the existing categorization are welcome.
 - Use the following format: `[Title](LINK) - max 200 characters summary of news or blog post.
 - End all descriptions with a full stop/period.
 - Position your suggestion as the last item in category.
