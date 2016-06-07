@@ -20,8 +20,11 @@ Apple investments, stocks, business decisions etc. - 💲
 ##### How to Use
 Awesome-Apple-Weekly-News is an amazing list for news related to Apple and development for Apple products.
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
+
 ## News & Blog posts from current week:
+
 ### Related development for Apple products:
+
 [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
 
 ### Business news, announcements from Apple:
