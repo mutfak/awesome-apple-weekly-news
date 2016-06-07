@@ -25,7 +25,7 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ### Related development for Apple products:
 
-[Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
+- [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
 
 ### Business news, announcements from Apple:
 
