@@ -4,7 +4,7 @@
 ##### About
 
 A curated list of awesome iOS, MAC OSX, tvOS, watchOS, Apple stocks, investments news and much more.
-Every week list will be divided into categories such as develoment, business related announcements from Apple and others. In each category, the order is for contribution. If you want to contribute, please read the guide.
+Every week list will be divided into categories such as develoment, business related announcements from Apple and others. In each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mutfak/awesome-apple-weekly-news/blob/master/CONTRIBUTION.md).
 
 List will contain weekly news and previous weeks' table.
 Weeks from current week will be shown in README.
@@ -20,8 +20,8 @@ Apple investments, stocks, business decisions etc. - 💲
 ##### How to Use
 Awesome-Apple-Weekly-News is an amazing list for news related to Apple and development for Apple products.
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
-
-### Development related news for Apple products:
+## News & Blog posts from current week:
+### Related development for Apple products:
 [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
 
 ### Business news, announcements from Apple:
