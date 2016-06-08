@@ -27,6 +27,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
 
+- [Search Ads and Subscription Enhancements in App Store](https://developer.apple.com/news/?id=06082016a) - Apple will allow auto-renewable subscriptions to apps in all categories in App Store. Search Ads will be used to promote app while users searching for apps like yours.
+
 ### Business news, announcements from Apple:
 
 
