@@ -29,6 +29,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [Search Ads and Subscription Enhancements in App Store](https://developer.apple.com/news/?id=06082016a) - Apple will allow auto-renewable subscriptions to apps in all categories in App Store. Search Ads will be used to promote app while users searching for apps like yours.
 
+- [Swift Rewrite Redux](http://rosslebeau.com/2016/swift-rewrite-redux) - A rewrite and discussion of image-sizing code inspired by Erica Sadun's post. Goes over extension architecture, Swift 3 IUOs, and more.
+
 ### Business news, announcements from Apple:
 
 
