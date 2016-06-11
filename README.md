@@ -33,6 +33,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [UIKonf 2016 Videos](https://www.youtube.com/playlist?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) - All UIKonf Videos has been published on YouTube
 
+- [GCD's Main Queue vs. Main Thread](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/) - Benjamin Encz compares Main Thread and Main Queue and tells us how to use them correctly. :large_orange_diamond:
+
 ### Business news, announcements from Apple:
 
 
