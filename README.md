@@ -31,6 +31,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [Swift Rewrite Redux](http://rosslebeau.com/2016/swift-rewrite-redux) - A rewrite and discussion of image-sizing code inspired by Erica Sadun's post. Goes over extension architecture, Swift 3 IUOs, and more. :large_orange_diamond:
 
+- [UIKonf 2016 Videos](https://www.youtube.com/playlist?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) - All UIKonf Videos has been published on YouTube
+
 ### Business news, announcements from Apple:
 
 
