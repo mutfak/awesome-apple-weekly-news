@@ -23,10 +23,9 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## News & Blog posts from current week:
 
-- [iOS 10.0 API Diffs](https://developer.apple.com/library/prerelease/content/releasenotes/General/iOS10APIDiffs/) - Apple announces iOS 10.0 API. This guide shows the differences between iOS 9.3 API and iOS 10.0 API both languages in Objective-C and Swift. :large_orange_diamond: :large_blue_diamond:
-
 ### Related development for Apple products:
 
+- [iOS 10.0 API Diffs](https://developer.apple.com/library/prerelease/content/releasenotes/General/iOS10APIDiffs/) - Apple announces iOS 10.0 API. This guide shows the differences between iOS 9.3 API and iOS 10.0 API both languages in Objective-C and Swift. :large_orange_diamond: :large_blue_diamond:
 
 ### Business news, announcements from Apple:
 
