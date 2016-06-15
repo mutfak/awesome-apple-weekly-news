@@ -21,9 +21,9 @@ Apple investments, stocks, business decisions etc. - 💲
 Awesome-Apple-Weekly-News is an amazing list for news related to Apple and development for Apple products.
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 
-## News & Blog posts from current week:
+# News & Blog posts from current week:
 
-### Related development for Apple products:
+## Related development for Apple products:
 
 - [UIViewPropertyAnimator comes with iOS 10](https://developer.apple.com/reference/uikit/uiviewpropertyanimator) - Until iOS10, performing gesture-based and interruptible animations on iOS was a pain. UIViewPropertyAnimator lets you animate changes to views and dynamically modify your animations before they finish. :large_orange_diamond: :large_blue_diamond:
 
@@ -39,12 +39,12 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [New App Store Review Guidelines](https://developer.apple.com/news/?id=06132016c) - Apple has rewritten and announced the App Review Guidelines.
 
-### Business news, announcements from Apple:
+## Business news, announcements from Apple:
 
 
 - [Apple unbundles its native apps](https://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/) - Apple unbundles its native apps like Mail, Maps, Music, Stocks, Calculator, Weather and puts them on the App Store.
  
-### Previous week
+## Previous week
 
 #### Development related posts for Apple products:
 
