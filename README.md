@@ -29,6 +29,7 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [Swift 3.0 Migration Guide](https://swift.org/migration-guide/) - Xcode 8 comes with the Swift Migrator which helps to migrate code to Swift 3.0 or update it to work with Swift 2.3 and new SDKs. :large_orange_diamond:
 
+- [Swift 2.3 announcement](https://swift.org/blog/swift-2-3/) - Swift team announces Swift 2.3. This is a minor update from Swift 2.2.1. Swift 2.3 is available as part of Xcode 8. :large_orange_diamond:
 
 - [iOS 10.0 API Diffs](https://developer.apple.com/library/prerelease/content/releasenotes/General/iOS10APIDiffs/) - Apple announces iOS 10.0 API. This guide shows the differences between iOS 9.3 API and iOS 10.0 API both languages in Objective-C and Swift. :large_orange_diamond: :large_blue_diamond:
 
