@@ -25,6 +25,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ### Related development for Apple products:
 
+- [Apple opens SiriKit](https://developer.apple.com/sirikit/) - Apple will be opening up Siri to third-party developers through an API, giving outside apps the ability to activate from Siri's voice commands. :large_orange_diamond: :large_blue:diamond:
+
 - [Swift 3.0 Preview 1 Released](https://swift.org/blog/swift-3-0-preview-1-released/) - Apple releases Developer Preview for Swift 3.0. This release includes 41 implemented proposals and Swift Package Manager. Also this relase is not backward compatible with Swift 2.2.1. :large_orange_diamond:
 
 - [Swift 3.0 Migration Guide](https://swift.org/migration-guide/) - Xcode 8 comes with the Swift Migrator which helps to migrate code to Swift 3.0 or update it to work with Swift 2.3 and new SDKs. :large_orange_diamond:
