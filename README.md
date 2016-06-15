@@ -31,7 +31,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ### Business news, announcements from Apple:
 
-
+- [Apple unbundles its native apps](https://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/) - Apple unbundles its native apps like Mail, Maps, Music, Stocks, Calculator, Weather and puts them on the App Store.
+ 
 ### Previous week
 
 - [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
