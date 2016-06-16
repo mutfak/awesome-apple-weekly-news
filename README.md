@@ -27,6 +27,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+- [UserNotifications Framework](https://developer.apple.com/reference/usernotifications) - UserNotifications Framwork helps developers to implement richer local and remote notifications. With this frameworks developers can modify local and remote notifications when they are delivered to the user's device.
+
 - [UIViewPropertyAnimator comes with iOS 10](https://developer.apple.com/reference/uikit/uiviewpropertyanimator) - Until iOS10, performing gesture-based and interruptible animations on iOS was a pain. UIViewPropertyAnimator lets you animate changes to views and dynamically modify your animations before they finish. :large_orange_diamond: :large_blue_diamond:
 
 - [Apple opens SiriKit](https://developer.apple.com/sirikit/) - Apple will be opening up Siri to third-party developers through an API, giving outside apps the ability to activate from Siri's voice commands. :large_orange_diamond: :large_blue_diamond:
