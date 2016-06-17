@@ -27,6 +27,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+- [The A5 is Dead(almost)](http://www.jessesquires.com/the-a5-is-dead/) - Jesse Squires wrote a blog post about devices which have A5 chips. iOS 10 won't support these devices contrary to iOS 9.
+
 - [WWDC 2016 Videos](https://developer.apple.com/videos/wwdc2016/) - All videos of sessions in WWDC 2016.
 
 - [Messages Framework](https://developer.apple.com/reference/messages) - With iOS10, users are going to have much more power with Messages framework. Users should be able to create sticker packs and iMessages apps with app extensions. :large_orange_diamond: :large_blue_diamond:
