@@ -27,7 +27,7 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
-- [Swift Talk](https://talk.objc.io/) - Swift Talk is announced by objc.io editors. Users can subscribe it for $9 monthly fee. They will talk about solutions to problems they found while building Swift projects and publish videos every week. :large_orange_diamond:
+- [Swift Talk](https://talk.objc.io/) - Swift Talk is announced by objc.io editors. It has $9 monthly subscription fee. They will talk about solutions to problems they found while building Swift projects and publish videos every week. :large_orange_diamond:
 
 - [The A5 is Dead(almost)](http://www.jessesquires.com/the-a5-is-dead/) - Jesse Squires wrote a blog post about devices which have A5 chips. iOS 10 won't support these devices contrary to iOS 9.
 
