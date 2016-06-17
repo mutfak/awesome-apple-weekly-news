@@ -11,13 +11,10 @@ News from current week will be shown in README.
 News from previous weeks will be accesible from here.
 
 News in categories will be marked with certain emojis:
-Swift - :large_orange_diamond:,
-
-Objective-C - :large_blue_diamond:,
-
-Apple Watch - ⌚,
-
-Mac OSX - 🖥,
+- Swift - :large_orange_diamond:,
+- Objective-C - :large_blue_diamond:,
+- Apple Watch - ⌚,
+- Mac OSX - 🖥,
 
 Apple investments, stocks, business decisions etc. - 💲
 
