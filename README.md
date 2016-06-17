@@ -27,7 +27,9 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
-- [UserNotifications Framework](https://developer.apple.com/reference/usernotifications) - UserNotifications Framwork helps developers to implement richer local and remote notifications. With this frameworks developers can modify local and remote notifications when they are delivered to the user's device. :large_orange_diamond: :large_blue_diamond:
+- [Messages Framework](https://developer.apple.com/reference/messages) - With iOS10, users are going to have much more power with Messages framework. Users should be able to create sticker packs and iMessages apps with app extensions. :large_orange_diamond: :large_blue_diamond:
+
+- [UserNotifications Framework](https://developer.apple.com/reference/usernotifications) - UserNotifications Framework helps developers to implement richer local and remote notifications. With this frameworks developers can modify local and remote notifications when they are delivered to the user's device. :large_orange_diamond: :large_blue_diamond:
 
 - [UIViewPropertyAnimator comes with iOS 10](https://developer.apple.com/reference/uikit/uiviewpropertyanimator) - Until iOS10, performing gesture-based and interruptible animations on iOS was a pain. UIViewPropertyAnimator lets you animate changes to views and dynamically modify your animations before they finish. :large_orange_diamond: :large_blue_diamond:
 
