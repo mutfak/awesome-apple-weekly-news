@@ -15,8 +15,7 @@ News in categories will be marked with certain emojis:
 - Objective-C - :large_blue_diamond:
 - Apple Watch - ⌚
 - Mac OSX - 🖥
-
-Apple investments, stocks, business decisions etc. - 💲
+- Apple investments, stocks, business decisions etc. - 💲
 
 ##### How to Use
 Awesome-Apple-Weekly-News is an amazing list for news related to Apple and development for Apple products.
