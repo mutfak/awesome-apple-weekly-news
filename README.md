@@ -26,6 +26,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+- [What's New in iOS 10](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Articles/iOS10.html#//apple_ref/doc/uid/TP40017084-SW1) - Apple publishes article to summarize the key developer-related features introduced in iOS 10. This article also lists the documents that describe new features in more detail. :large_orange_diamond: :large_blue_diamond: 📱
+
 - [Objecite-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) - Andrew Madsen wrote a blog post about Objective-C Class properties and use cases which came with iOS 10/macOS 10.12. :large_blue_diamond: 
 
 - [Do pure Swift objects have load() method?](https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/) - Maciej Piotrowski investigated pure swift objects with unit tests and found that pure Swift objects don't have load method. :large_orange_diamond:
