@@ -13,6 +13,7 @@ News from previous weeks will be accesible from here.
 News in categories will be marked with certain emojis:
 - Swift - :large_orange_diamond:
 - Objective-C - :large_blue_diamond:
+- iOS - 📱 
 - watchOS - ⌚
 - macOS - 🖥
 - Apple investments, stocks, business decisions etc. - 💲
