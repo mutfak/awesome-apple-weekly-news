@@ -25,6 +25,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+- [Do pure Swift objects have load() method?](https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/) - Maciej Piotrowski investigated pure swift objects with unit tests and found that pure Swift objects don't have load method. :large_orange_diamond:
+
 - [Xcode Extensions](http://www.russbishop.net/xcode-extensions) - Russ Bishop explains XcodeKit and Source Editor Extensions that supported in Xcode 8 with official extension API. 🖥
 
 - [Swift Talk](https://talk.objc.io/) - Swift Talk is announced by objc.io editors. It has $9 monthly subscription fee. They will talk about solutions to problems they found while building Swift projects and publish videos every week. :large_orange_diamond:
