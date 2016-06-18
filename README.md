@@ -26,6 +26,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+- [Objecite-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) - Andrew Madsen wrote a blog post about Objective-C Class properties and use cases which came with iOS 10/macOS 10.12. :large_blue_diamond: 
+
 - [Do pure Swift objects have load() method?](https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/) - Maciej Piotrowski investigated pure swift objects with unit tests and found that pure Swift objects don't have load method. :large_orange_diamond:
 
 - [Xcode Extensions](http://www.russbishop.net/xcode-extensions) - Russ Bishop explains XcodeKit and Source Editor Extensions that supported in Xcode 8 with official extension API. 🖥
