@@ -26,6 +26,14 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 ## Related development for Apple products:
 
+
+## Business news, announcements from Apple:
+
+ 
+## Previous week
+
+#### Development related posts for Apple products:
+
 - [What's New in iOS 10](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Articles/iOS10.html#//apple_ref/doc/uid/TP40017084-SW1) - Apple publishes article to summarize the key developer-related features introduced in iOS 10. This article also lists the documents that describe new features in more detail. :large_orange_diamond: :large_blue_diamond: 📱
 
 - [Objecite-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties) - Andrew Madsen wrote a blog post about Objective-C Class properties and use cases which came with iOS 10/macOS 10.12. :large_blue_diamond: 
@@ -58,29 +66,13 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [New App Store Review Guidelines](https://developer.apple.com/news/?id=06132016c) - Apple has rewritten and announced the App Review Guidelines.
 
-## Business news, announcements from Apple:
-
-
-- [Apple unbundles its native apps](https://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/) - Apple unbundles its native apps like Mail, Maps, Music, Stocks, Calculator, Weather and puts them on the App Store.
- 
-## Previous week
-
-#### Development related posts for Apple products:
-
-- [Modern Core Data](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/) - Daniel Eggert talks about how to use an old API in modern Swift code via using Core Data :large_orange_diamond:
-
-- [Swift Rewrite Redux](http://rosslebeau.com/2016/swift-rewrite-redux) - A rewrite and discussion of image-sizing code inspired by Erica Sadun's post. Goes over extension architecture, Swift 3 IUOs, and more. :large_orange_diamond:
-
-- [UIKonf 2016 Videos](https://www.youtube.com/playlist?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) - All UIKonf Videos has been published on YouTube
-
-- [GCD's Main Queue vs. Main Thread](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/) - Benjamin Encz compares Main Thread and Main Queue and tells us how to use them correctly. :large_orange_diamond:
-
 #### Business news, announcements from Apple:
 
-- [Search Ads and Subscription Enhancements in App Store](https://developer.apple.com/news/?id=06082016a) - Apple will allow auto-renewable subscriptions to apps in all categories in App Store. Search Ads will be used to promote app while users searching for apps like yours.
+- [Apple unbundles its native apps](https://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/) - Apple unbundles its native apps like Mail, Maps, Music, Stocks, Calculator, Weather and puts them on the App Store.
 
 ### Other weeks
-Other weeks will be shown as list in here
+
+- [Week 1: 06.06.2016 - 12.06.2016](https://github.com/mutfak/awesome-apple-weekly-news/blob/master/PreviousWeeks/week1:06.06.2016-12.06.2016.md)
 
 ## License
 
