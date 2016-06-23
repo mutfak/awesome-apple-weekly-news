@@ -29,6 +29,8 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 - [WWDC 2016 Viewing Guide](http://useyourloaf.com/blog/wwdc-2016-viewing-guide/) - Keith Harrison prepared a guide to must watch sessions for iOS in WWDC 2016.
 
+- [GraphQL for iOS Developers](http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/) - Orta Therox wrote in Artsy blog about Facebook's API technology GraphQL. He explains the advantages of using GraphQL in their iOS projects.
+
 ## Business news, announcements from Apple:
 
  
