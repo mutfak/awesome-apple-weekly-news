@@ -25,10 +25,9 @@ Awesome-Apple-Weekly-News is an amazing list for news related to Apple and devel
 
 # News & Blog posts from current week:
 
-- [WWDC 2016 Viewing Guide](http://useyourloaf.com/blog/wwdc-2016-viewing-guide/) - Keith Harrison prepared a guide to must watch sessions for iOS in WWDC 2016.
-
 ## Related development for Apple products:
 
+- [WWDC 2016 Viewing Guide](http://useyourloaf.com/blog/wwdc-2016-viewing-guide/) - Keith Harrison prepared a guide to must watch sessions for iOS in WWDC 2016.
 
 ## Business news, announcements from Apple:
 
